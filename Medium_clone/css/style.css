@@ -1,0 +1,19 @@
+body {
+    color: #000000;
+    font-family: 'PT Serif', serif;
+}
+
+
+
+.bg-yellow {
+    background-color: #FFC017;
+}
+
+.link-color{
+   color: #1A8917 ; 
+}
+
+a:hover {
+    color: #000000;
+    text-decoration: none;
+}
